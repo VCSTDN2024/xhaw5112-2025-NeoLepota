@@ -21,7 +21,7 @@
 The platform gives users access to various training courses, resources, and opportunities that help them build confidence and practical skills.  
 
 This project focuses on **simplicity**, **accessibility**, and **user-centered design**, ensuring that anyone can easily explore and learn through the platform.  
-Both the website and mobile app share a clean, nature inspired look that represents growth, unity, and strength — the key values behind the project.  
+Both the website and mobile app share a clean, nature inspired look that represents growth, unity, and strength  the key values behind the project.  
 
 ##  Scenario Context
 The SME offers both **six-month learnerships** and **six-week short courses**:  
