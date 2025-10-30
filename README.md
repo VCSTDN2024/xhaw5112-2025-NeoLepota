@@ -10,7 +10,7 @@
 
 
 ## Links  
-- **GitHub Repository:**   
+- **GitHub Repository:**  https://github.com/Shrunkel/XHAW5112-POE.git 
 - **App demonstration Video:**
 - **Website demonstration Video:** 
 
