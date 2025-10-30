@@ -83,31 +83,31 @@ The chosen color palette combines **green and brown tones**, inspired by nature.
 
 ### App Final Designs :
 
---Login Screen--
+**Login Screen**
 
 <img width="311" height="681" alt="login" src="https://github.com/user-attachments/assets/3cd821ad-a869-4d12-b00d-045f74acab16" />
 
 ----------------------------------------
 
---Signup Screen--
+**Signup Screen**
 
 <img width="313" height="690" alt="signup" src="https://github.com/user-attachments/assets/326b64ba-32de-4947-ad6f-222cdb60a3ae" />
 
 ----------------------------------------
 
---Home Screen--
+**Home Screen**
 
 <img width="306" height="573" alt="mobile home" src="https://github.com/user-attachments/assets/c5e51828-ba25-46e7-b07d-588c83bb6de9" />
 
 ----------------------------------------
 
---Courses Screen--
+**Courses Screen**
 
 <img width="376" height="847" alt="Courses screen" src="https://github.com/user-attachments/assets/26988294-b5e3-47a4-9807-8be773474041" />
 
 ----------------------------------------
 
---Enquiry Screen--
+**Enquiry Screen**
 
 <img width="315" height="681" alt="enquiry pagr" src="https://github.com/user-attachments/assets/6b6a522c-95ab-48d7-bb44-eeabd1ed0331" />
 
@@ -115,19 +115,19 @@ The chosen color palette combines **green and brown tones**, inspired by nature.
 
 ### Website Final Designs : 
 
---Home Screen--
+**Home Screen**
 
 <img width="317" height="659" alt="home page" src="https://github.com/user-attachments/assets/3d623cae-f725-489b-b9cf-bdf5a427ce67" />
 
 ----------------------------------------
 
---Courses Screen--
+**Courses Screen**
 
 <img width="563" height="681" alt="Screenshot 2025-10-14 171403" src="https://github.com/user-attachments/assets/77161772-b19c-42fd-91f1-3c6720498aff" />
 
 ----------------------------------------
 
---Enquiry Page--
+**Enquiry Page**
 
 <img width="1919" height="822" alt="enquiry page" src="https://github.com/user-attachments/assets/1e310de2-af44-462f-bb93-8ef305d7509c" />
 
