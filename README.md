@@ -154,5 +154,32 @@ The workflow saves the process of submitting the final APK/AAB files for submiss
 
 
 ##  References  
+Figma (2025). Figma: the Collaborative Interface Design tool. [online] Figma. Available at: https://www.figma.com/.
+
+Canva (2025). Free templates | Canva. [online] Canva. Available at: https://www.canva.com/templates.
+
+Sharepoint.com. (2025). Redirecting. [online] Available at: https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/Doc.aspx?sourcedoc=%7B022BFEDB-81D5-47FC-98E0-571385158886%7D&file=XHAW5112_MM.docx&action=default&mobileredirect=true.
+GeeksforGeeks (2024). Learn Web Development Basics with HTML CSS and JavaScript. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/javascript/learn-web-development-basics-with-html-css-and-javascript/.
+
+www.w3schools.com. (n.d.). Kotlin Tutorial. [online] Available at: https://www.w3schools.com/kotlin/index.php.
+Adéla Bařinová (2025). Innovative Fundraising for Community Gardens. [online] Pinterest. Available at: https://pin.it/5TirUtxR9 [Accessed 30 Oct. 2025].
+
+Coalize (2020). 4 habilidades para fazer gerenciamento de equipe. [online] Pinterest. Available at: https://pin.it/5TVzL2PSB [Accessed 30 Oct. 2025].
+
+Curran, R. (2025). Community Gardening Day. [online] Pinterest. Available at: https://pin.it/3Hu0GqHwS [Accessed 30 Oct. 2025].
+
+Lenkov, A. (2025). Community Gardening Projects. [online] Pinterest. Available at: https://pin.it/fGjamD3wj [Accessed 30 Oct. 2025].
+
+Paramedic doing eye examining in amb. [online] Pinterest. Available at: https://pin.it/1jbWvG8dg [Accessed 30 Oct. 2025].malaindiancookingclass (2024).
+
+Team Building Cooking Classes near Springfield MA. [online] Pinterest. Available at: https://pin.it/7wxbuuTDp [Accessed 30 Oct. 2025].
+
+Oliveto, C. (2024). Calendario de siembra para Marzo: estrategias y prácticas para tu huerto urbano. [online] Pinterest. Available at: https://pin.it/1pJP1S3Jy [Accessed 30 Oct. 2025].
+
+Pin.it. (2025). Page Restricted. [online] Available at: https://pin.it/EzsECrvX1 [Accessed 30 Oct. 2025].
+
+RF, A. (2025). Brainstorming of diverse team corporate coworkers collaborating on a project in a modern office | Premium AI-generated image. [online] Pinterest. Available at: https://pin.it/1DNyILvjq [Accessed 30 Oct. 2025].Shooteightaeq (2020). 
+
+First Aid Training - Food Poisoning. [online] Pinterest. Available at: https://pin.it/5EkFEpppT [Accessed 30 Oct. 2025]. 
 
  
