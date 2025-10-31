@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Empowering the Nation  
 **Developers:** Kayrey Maistry(ST10469845)-Leader,Neo Lepota(ST10494817)-Secretary,Kaamilah Mahomed(ST10492062)
 
@@ -183,3 +184,6 @@ RF, A. (2025). Brainstorming of diverse team corporate coworkers collaborating o
 First Aid Training - Food Poisoning. [online] Pinterest. Available at: https://pin.it/5EkFEpppT [Accessed 30 Oct. 2025]. 
 
  
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nMdoCiK7)
+>>>>>>> 87fd843fb262c6fc2b7e803185ce6edbea74075c
